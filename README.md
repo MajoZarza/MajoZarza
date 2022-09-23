@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I am Maria Jose Zarza</h1>
-<h3 align="center">Getting started in the IT world</h3>
+<h3 align="center">Starting in the IT world</h3>
 
 - 📫 How to reach me **majitozarza@gmail.com**
 
